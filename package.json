@@ -1,0 +1,8 @@
+{
+  "name": "dinedesk-restaurant-platform",
+  "version": "1.0.0",
+  "description": "CodSoft Task 2 restaurant ordering and table management platform",
+  "main": "server.js",
+  "scripts": {"start": "node server.js"},
+  "dependencies": {"express": "^4.19.2"}
+}
